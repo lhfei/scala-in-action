@@ -10,7 +10,7 @@ class Point(xc: Int, yc: Int) {
 
   def move(dx: Int, dy: Int) {
     x = x + dx;
-    y = y + dyr
+    y = y + dy
   }
 
 }
